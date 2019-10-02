@@ -1,0 +1,32 @@
+.Title-bar {
+  background-color: #000;
+  display: block;
+  color: #fff;
+  padding-left: 16px
+}
+
+.Search-box {
+  font-size: 30px;
+  display: 'block';
+  width: 99%;
+  padding-left: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px
+}
+
+.App-logo {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
